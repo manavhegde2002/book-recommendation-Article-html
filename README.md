@@ -21,7 +21,7 @@ the code is:
 </a></p>
 <h3>the price for this book is RS 388 </h3>
 <br>
-<h2>1)THE TIME MACHINE<h2>
+<h2>2)THE TIME MACHINE<h2>
 <h3>by Author HG Wells</h3>
 
 <br>
